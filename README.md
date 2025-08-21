@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My First HTML Pages</title>
+    <title>My First HTML Pagess</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -27,4 +27,5 @@
     <img src="https://via.placeholder.com/150" alt="Sample Image">
 </body>
 </html>
+
 
